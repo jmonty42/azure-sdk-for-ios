@@ -1,0 +1,215 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunication/Source/Authentication/CommunicationAuthenticationPolicy.swift",
+      "line": 32,
+      "symbol": "CommunicationUserCredentialPolicy",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunication/Source/Authentication/CommunicationAuthenticationPolicy.swift",
+      "line": 33,
+      "symbol": "CommunicationUserCredentialPolicy.next",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunication/Source/Authentication/CommunicationAuthenticationPolicy.swift",
+      "line": 37,
+      "symbol": "CommunicationUserCredentialPolicy.init(credential:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunication/Source/Authentication/CommunicationAuthenticationPolicy.swift",
+      "line": 41,
+      "symbol": "CommunicationUserCredentialPolicy.authenticate(request:completionHandler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunication/Source/Authentication/CommunicationTokenCredential.swift",
+      "line": 32,
+      "symbol": "CommunicationTokenCredential",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunication/Source/Authentication/CommunicationTokenCredential.swift",
+      "line": 33,
+      "symbol": "CommunicationTokenCredential.token(completionHandler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunication/Source/Authentication/CommunicationUserCredential.swift",
+      "line": 32,
+      "symbol": "AccessTokenRefreshOnCompletion",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunication/Source/Authentication/CommunicationUserCredential.swift",
+      "line": 33,
+      "symbol": "TokenRefreshOnCompletion",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunication/Source/Authentication/CommunicationUserCredential.swift",
+      "line": 35,
+      "symbol": "CommunicationUserCredential",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunication/Source/Authentication/CommunicationUserCredential.swift",
+      "line": 38,
+      "symbol": "CommunicationUserCredential.init(token:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunication/Source/Authentication/CommunicationUserCredential.swift",
+      "line": 42,
+      "symbol": "CommunicationUserCredential.init(initialToken:refreshProactively:tokenRefresher:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunication/Source/Authentication/CommunicationUserCredential.swift",
+      "line": 54,
+      "symbol": "CommunicationUserCredential.token(completionHandler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunication/Source/Identifiers.swift",
+      "line": 29,
+      "symbol": "CommunicationIdentifier",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunication/Source/Identifiers.swift",
+      "line": 30,
+      "symbol": "CommunicationIdentifier.getId()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunication/Source/Identifiers.swift",
+      "line": 33,
+      "symbol": "CommunicationUser",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunication/Source/Identifiers.swift",
+      "line": 34,
+      "symbol": "CommunicationUser.identifier",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunication/Source/Identifiers.swift",
+      "line": 36,
+      "symbol": "CommunicationUser.getId()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunication/Source/Identifiers.swift",
+      "line": 40,
+      "symbol": "CommunicationUser.init(identifier:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunication/Source/Identifiers.swift",
+      "line": 45,
+      "symbol": "CallingApplication",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunication/Source/Identifiers.swift",
+      "line": 46,
+      "symbol": "CallingApplication.identifier",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunication/Source/Identifiers.swift",
+      "line": 48,
+      "symbol": "CallingApplication.getId()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunication/Source/Identifiers.swift",
+      "line": 52,
+      "symbol": "CallingApplication.init(identifier:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunication/Source/Identifiers.swift",
+      "line": 57,
+      "symbol": "UnknownIdentifier",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunication/Source/Identifiers.swift",
+      "line": 58,
+      "symbol": "UnknownIdentifier.identifier",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunication/Source/Identifiers.swift",
+      "line": 60,
+      "symbol": "UnknownIdentifier.getId()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunication/Source/Identifiers.swift",
+      "line": 64,
+      "symbol": "UnknownIdentifier.init(identifier:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunication/Source/Identifiers.swift",
+      "line": 69,
+      "symbol": "PhoneNumber",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunication/Source/Identifiers.swift",
+      "line": 70,
+      "symbol": "PhoneNumber.value",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunication/Source/Identifiers.swift",
+      "line": 72,
+      "symbol": "PhoneNumber.getId()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/brsiegel/source/repos/azure-sdk/ios/sdk/communication/AzureCommunication/Source/Identifiers.swift",
+      "line": 76,
+      "symbol": "PhoneNumber.init(phoneNumber:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/brsiegel/source/repos/azure-sdk/ios"
+}
